@@ -1,0 +1,16 @@
+{
+  "name": "backend_server",
+  "version": "1.0.0",
+  "description": "creating a backend server from scratch",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "samuel kyere",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7",
+    "nodemon": "^2.0.15"
+  }
+}
